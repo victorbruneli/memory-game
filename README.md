@@ -1,1 +1,3 @@
-# Memory-Game
+# Jogo da Memoria
+
+Aprendendo Redux
