@@ -3,13 +3,13 @@ import Paper from "@material-ui/core/Paper";
 import { withStyles } from "@material-ui/core/styles";
 import Typography from "@material-ui/core/Typography";
 
-const styles = (theme) => ({
+const styles = theme => ({
   root: {
-    padding: theme.spacing.unit * 6,
+    padding: theme.spacing.unit * 6
   },
   title: {
-    paddingBottom: theme.spacing.unit * 6,
-  },
+    paddingBottom: theme.spacing.unit * 6
+  }
 });
 
 const DashboardMenu = ({ children, classes, title }) => (

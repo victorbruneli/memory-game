@@ -5,8 +5,8 @@ import { withStyles } from "@material-ui/core/styles";
 const styles = {
   root: {
     height: "100vh",
-    backgroundColor: "#ccc",
-  },
+    backgroundColor: "#ccc"
+  }
 };
 
 const Dashboard = ({ children, classes }) => (

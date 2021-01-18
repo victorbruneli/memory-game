@@ -1,3 +1,3 @@
-# Jogo da Memoria
+# Jogo de Memoria
 
 Aprendendo Redux
