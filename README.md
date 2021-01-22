@@ -5,6 +5,7 @@ Aprendendo Redux
 # Criação
 
 React. (HTML, CSS, JavaScript)
+Redux.
 
 # Funções
 
