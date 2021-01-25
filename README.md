@@ -5,6 +5,7 @@ Aprendendo Redux
 # Criação
 
 React. (HTML, CSS, JavaScript)
+Redux.
 
 # Funções
 
@@ -17,8 +18,7 @@ Jogo de cartas, ache o seu par para concluir o jogo.
 <p align="center">
 <img src="./img/img1.png" width="500px" >
 </p>
------------------------------------------
-=======
+
 <p align="center">
 <img src="./img/img1.png" width="500px" >
 </p>
